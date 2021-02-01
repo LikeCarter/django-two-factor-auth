@@ -36,3 +36,4 @@ sphinx_rtd_theme
 wheel
 bumpversion
 twine
+django>=2.2.18 # not directly required, pinned by Snyk to avoid a vulnerability
